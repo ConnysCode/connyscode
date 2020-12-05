@@ -3,7 +3,7 @@
 <div align="center"><a href="https://twitter.com/ConnysCode"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ConnysCode?color=%231DA1F2&logo=twitter&style=for-the-badge"></a> <a href="https://encrypt.namespace.media/"><img alt="encrypt." src="https://img.shields.io/website?color=%232a475e&label=%22encrypt.%22%20on%20Steam&logo=steam&style=for-the-badge&up_message=%3E%20here%20%3C&url=https%3A%2F%2Fencrypt.namespace.media%2F"></a></div>
 
 <h3 align="center">I am a software developer - yes! I know - <b>unexpected</b>.</h3>
-<div>Anyway, I'm working together with @namespace-media for quite some time now on the video game "encrypt." and some smaller projects on my own.</div>
+<div>Anyway, I'm working together with <a href="https://github.com/namespace-media">@namespace-media</a> for quite some time now on the video game "encrypt." and some smaller projects on my own.</div>
 
 ## Check out my Projects
 ## encrypt.

@@ -1,1 +1,1 @@
-<img src="https://img.namespace.media/images/2021/09/15/readme1.png">
+<img src="http://cdn.namespace.media/s/WoscarAt8bsqoKR/download/readme1.png">
